@@ -1,0 +1,4 @@
+requirement_id,coverage_status,coverage_percent,coverage_gaps
+REQ-1,Covered,100,[]
+REQ-2,Covered,100,[]
+REQ-3,Covered,100,[]

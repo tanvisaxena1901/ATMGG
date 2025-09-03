@@ -1,0 +1,4 @@
+requirement_id,title,statement,priority,severity,domain,compliance
+REQ-1,The,The system shall encrypt PHI using AES-256.,Medium,High,Security,HIPAA
+REQ-2,The,The system shall log all access events.,Medium,High,Access Control,HIPAA
+REQ-3,The,The application shall support multi-factor authentication.,Medium,High,Access Control,HIPAA

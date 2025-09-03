@@ -1,0 +1,10 @@
+test_id,requirement_id,title,description,steps,expected_result,priority,severity
+REQ-1_Positive,REQ-1,Positive test for The,Positive scenario for The system shall encrypt PHI using AES-256.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-1_Negative,REQ-1,Negative test for The,Negative scenario for The system shall encrypt PHI using AES-256.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-1_Edge,REQ-1,Edge test for The,Edge scenario for The system shall encrypt PHI using AES-256.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-2_Positive,REQ-2,Positive test for The,Positive scenario for The system shall log all access events.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-2_Negative,REQ-2,Negative test for The,Negative scenario for The system shall log all access events.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-2_Edge,REQ-2,Edge test for The,Edge scenario for The system shall log all access events.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-3_Positive,REQ-3,Positive test for The,Positive scenario for The application shall support multi-factor authentication.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-3_Negative,REQ-3,Negative test for The,Negative scenario for The application shall support multi-factor authentication.,"['Step 1', 'Step 2']",Expected outcome,Medium,High
+REQ-3_Edge,REQ-3,Edge test for The,Edge scenario for The application shall support multi-factor authentication.,"['Step 1', 'Step 2']",Expected outcome,Medium,High

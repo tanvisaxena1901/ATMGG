@@ -1,0 +1,4 @@
+filename,chunk
+doc1.txt,The system shall encrypt PHI using AES-256.
+doc1.txt,The system shall log all access events.
+doc2.txt,The application shall support multi-factor authentication.
